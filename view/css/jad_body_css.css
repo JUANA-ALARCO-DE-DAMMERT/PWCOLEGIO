@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,700');
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.redSocial-Facebook {
+    color: #094151;
+    font-size: 20px;
+}
+
+.redSocial-Instagram {
+    color: #094151;
+    font-size: 20px;
+}
+
+.redSocial-Twiter {
+    color: #094151;
+    font-size: 20px;
+}
+
+.redSocial-Facebook:hover {
+    color: blue;
+}
+
+.redSocial-Instagram:hover {
+    color: deeppink;
+}
+
+.redSocial-Twiter:hover {
+    color: deepskyblue;
+}
+
+/******************Slider***************************/
+
+
+
+
+
+/******************Barra de Navegacion y Sliders***************************/
+
+@media screen and (min-width: 0px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'JAD';
+    }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 10px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 15%;
+    }
+}
+
+@media screen and (min-width: 375px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'JAD';
+    }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 12px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
+    }
+
+}
+
+@media screen and (min-width: 425px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'JAD';
+    }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 20px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 10px;
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'Juana Alarco de Dammert';
+    }
+
+    /*Sliders*/
+
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 35px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 20px;
+        display: block;
+    }
+
+    .carousel-caption {
+        bottom: 10%;
+    }
+
+}
+
+@media screen and (min-width: 992px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'Juana Alarco de Dammert';
+    }
+
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 40px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 22px;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
+    }
+}
+@media screen and (min-width: 1440px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'Juana Alarco de Dammert';
+    }
+
+    /*Sliders*/
+
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 45px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 25px;
+    }
+
+    .carousel-caption {
+        bottom: 35%;
+    }
+}
+
+.logo {
+    width: 50px;
+}
+
+.borde-sup {
+    margin-top: 10px;
+}
+
+.letraNav {
+    font-weight: bold;
+}
+.letraNav {
+    font-weight: bold;
+}
+
+
+/*******************Card Services*************************************/
+
+.text-services {
+    color: #094151;
+    border-bottom: #094151;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text-services-saludo {
+    color: #094151;
+    border-bottom: #094151;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.linea_de_subrayado {
+    width: 300px;
+    height: 2px;
+    display: inline-block;
+    background: #094151;
+}
+
+
+/*******************Nosotros*************************************/
+.formato-about {
+    letter-spacing: 0.02em;
+    line-height: 40px;
+    font-size: 15px;
+    color: #094151;
+}
+
+.imagenNosotros {
+    background-image: url("../img/nosotros.jpg");
+    background-position: center;
+
+}.imagenContacto {
+    background-image: url("../img/contacto.jpg");
+    background-position: center;
+}
+
+.imagenServicios {
+    background-image: url("../img/servicios.jpg");
+    background-position: center;
+}
+
+.titulo_banner {
+    color: white;
+    font-weight: bold;
+    font-size: 65px;
+}
+
+.texto_banner {
+    color: white;
+    font-size: 25px;
+}
+
+.card {
+    border: none;
+    border-radius: 0;
+}
+
+.fondoNosotros {
+    background-color:  #143D55;
+    color: white;
+}
+
+.formatoNosotrosTitulos {
+    /*font-weight: bold;*/
+    font-size: 40px;
+}
+
+.formatoNosotrosTexto {
+    font-size: 17px;
+    line-height: 1.85em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.finalContactenos {
+    font-weight: bold;
+    color: #094151;
+}
+
+.botonEnviar {
+    font-weight: bold;
+    background-color: white;
+}
+/*******************Contacto*************************************/
+
+.btncontacto{
+    background-color: #094151;
+    color: white;
+}
+
+.btncontacto:hover {
+    background-color: #0098ca;
+    color: white;
+}
+
+.msjcontacto{
+    max-height: 150px;
+    min-height: 62px;
+}
+/*******************Cards*************************************/
+
+.card:hover {
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 25%;
+    align-items: center;
+
+}
+
+
+
+
+
+.contenido-manualesyencuesta a{
+  display: inline-block;
+  padding: 0 10px;
+  color: #143D55;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: 0;
+  line-height: 1.5em;
+  transition: all .3s ease;
+  margin-bottom: 15px;
+}
+
+.contenido-manualesyencuesta a:hover{
+  color: #efb810;
+}
+
+/*******************Footer*************************************/
+
+.detalles_footer {
+    background-color: #143D55;
+    color: white;
+}
+
+.link_footer {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-underline: none;
+}
+
+.link_footer:hover {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-underline: none;
+}
+
+.btn-outline-light:hover {
+    background-color: #efb810;
+    border: #efb810;
+}
+
+.titulos_footer {
+    font-weight: bold;
+    border: #efb810;
+
+}
+
+.footer_botom {
+    background-color: #efb810;
+    font-size: 15px;
+}
+
+.contenido-titulo p:hover{
+  color: #efb810;
+}
+
+.contenido-titulo p{
+  display: inline-block;
+  padding: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: 0;
+  line-height: 1.5em;
+  transition: all .3s ease;
+  margin-bottom: 15px;
+}
+
+/*--------------header--------------*/
+.inicio_botom {
+    background-color: #143D55;
+    font-size: 15px;
+}
+
+.contenido-inicio p:hover{
+  color: #efb810;
+}
+
+.contenido-inicio p{
+  display: inline-block;
+  padding: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: 0;
+  line-height: 1.5em;
+  transition: all .3s ease;
+  margin-bottom: 15px;
+}
