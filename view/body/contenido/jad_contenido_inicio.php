@@ -34,7 +34,7 @@
             </section>
             <div class="card-deck">
                 <div class="card align-items-center">
-                    <img src="./img/encuesta.jpg" class="card-img-top mt-3" alt="...">
+                    <img src="./img/encuesta1.jpg" class="card-img-top mt-3" alt="...">
                     <div class="card-body text-center">
                         <h5 class="card-title negrita">Encuestas</h5>
                         <p class="card-text">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <img src="./img/manual.jpg" class="card-img-top mt-3" alt="...">
+                    <img src="./img/manual1.jpg" class="card-img-top mt-3" alt="...">
                     <div class="card-body text-center">
                         <h5 class="card-title negrita">Manuales Docentes</h5>
                         <p class="card-text">
@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="card align-items-center">
-                    <img src="./img/manual.jpg" class="card-img-top mt-3" alt="...">
+                    <img src="./img/manual1.jpg" class="card-img-top mt-3" alt="...">
                     <div class="card-body text-center">
                         <h5 class="card-title negrita">Manuales Alumnos</h5>
                         <p class="card-text">

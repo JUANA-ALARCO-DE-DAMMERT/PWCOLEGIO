@@ -6,19 +6,19 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="./img/logojad.png" class="d-block w-100" alt="..." height="">
+                <img src="./img/portada1.jpg" class="d-block w-100" alt="..." height="500">
                 <div class="carousel-caption d-md-block">
-
+                    <p class="formatoSlider extra">BIENVENIDOS A LA I.E.P. "JUANA ALARCO DE DAMMERT"</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="./img/foto2.jpg" class="d-block w-100" alt="..." height="">
+                <img src="./img/portada2.jpg" class="d-block w-100" alt="..." height="500">
                 <div class="carousel-caption d-md-block">
-
+                    <a href="matriculas2021.php" class="btn btn-outline-light text-white m-1"><i class=""></i> Matriculas 2021</a>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="./img/foto3.jpg" class="d-block w-100" alt="..." height="">
+                <img src="./img/portada3.jpg" class="d-block w-100" alt="..." height="500">
                 <div class="carousel-caption d-md-block">
 
                 </div>

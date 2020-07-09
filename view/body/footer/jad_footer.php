@@ -23,7 +23,7 @@
         </div>
         <div class="footer_botom">
             <div class="container py-3 ">
-                Copyright © 2020 <a class="link_footer" href="https://innovasystec.com/" target="_blank">I.E.P "Juana Alarco de Dammert"</a>. Todos los derechos reservados.
+                Copyright © 2020 <a class="link_footer" href="http://juanaalarcodedammert.com/" target="_blank">I.E.P "Juana Alarco de Dammert"</a>. Todos los derechos reservados.
             </div>
         </div>
     </footer>

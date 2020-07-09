@@ -270,7 +270,6 @@ body {
     background: #094151;
 }
 
-
 /*******************Nosotros*************************************/
 .formato-about {
     letter-spacing: 0.02em;
@@ -279,19 +278,22 @@ body {
     color: #094151;
 }
 
-.imagenNosotros {
-    background-image: url("../img/nosotros.jpg");
-    background-position: center;
 
-}.imagenContacto {
-    background-image: url("../img/contacto.jpg");
+.imgmision {
+    background-image: url("../img/mision.jpg");
     background-position: center;
 }
 
-.imagenServicios {
-    background-image: url("../img/servicios.jpg");
+.imgvision {
+    background-image: url("../img/vision.jpg");
     background-position: center;
 }
+
+.imgvalores {
+    background-image: url("../img/valores.jpg");
+    background-position: center;
+}
+
 
 .titulo_banner {
     color: white;

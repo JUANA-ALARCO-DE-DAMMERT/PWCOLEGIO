@@ -4,5 +4,7 @@
 	<?php include './referencias/jad_css.php' ?>
 	<title>Juana Alarco de Dammert</title>
 </head>
-	<?php include "./body/jad_body_nosotrosmision.php" ?>
+<body>
+	<?php include "./body/jad_body_nosotrosvision.php" ?>
+</body>
 </html>
