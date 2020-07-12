@@ -5,5 +5,4 @@
     <title>Juana Alarco de Dammert</title>
 </head>
 <?php include "./body/jad_body_inicio.php"; ?>
-
 </html>

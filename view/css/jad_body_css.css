@@ -467,3 +467,23 @@ body {
   transition: all .3s ease;
   margin-bottom: 15px;
 }
+
+
+
+/*formulario matricula 2021*/
+
+.joqtan {
+    background-image: url("../img/mision.jpg");
+    background-position: center;
+}
+
+.titulo_formulario {
+    color: white;
+    font-weight: bold;
+    font-size: 65px;
+}
+
+.texto_formulario {
+    color: white;
+    font-size: 25px;
+}

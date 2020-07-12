@@ -14,7 +14,7 @@
             <div class="carousel-item">
                 <img src="./img/portada2.jpg" class="d-block w-100" alt="..." height="500">
                 <div class="carousel-caption d-md-block">
-                    <a href="matriculas2021.php" class="btn btn-outline-light text-white m-1"><i class=""></i> Matriculas 2021</a>
+                    <a href="matricula.php" class="btn btn-outline-light text-white m-1"><i class=""></i> Matriculas 2021</a>
                 </div>
             </div>
             <div class="carousel-item">
